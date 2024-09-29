@@ -1,0 +1,985 @@
+IP-адрес,Порт,TLS,Дата-центр,Регион,Город,Задержка
+104.18.15.88,443,true,RIX,Europe,Riga,147 мс
+104.18.19.64,443,true,DME,Europe,Moscow,149 мс
+104.18.19.77,443,true,DME,Europe,Moscow,161 мс
+104.18.23.42,443,true,RIX,Europe,Riga,144 мс
+104.18.27.30,443,true,RIX,Europe,Riga,147 мс
+104.18.31.9,443,true,DME,Europe,Moscow,161 мс
+104.18.38.200,443,true,DME,Europe,Moscow,159 мс
+104.18.38.203,443,true,DME,Europe,Moscow,137 мс
+104.18.46.152,443,true,DME,Europe,Moscow,153 мс
+104.18.50.128,443,true,DME,Europe,Moscow,148 мс
+104.18.50.130,443,true,DME,Europe,Moscow,143 мс
+104.18.54.108,443,true,DME,Europe,Moscow,136 мс
+104.18.62.56,443,true,DME,Europe,Moscow,149 мс
+104.18.62.58,443,true,DME,Europe,Moscow,136 мс
+104.18.70.8,443,true,RIX,Europe,Riga,146 мс
+104.18.73.240,443,true,DME,Europe,Moscow,149 мс
+104.18.73.253,443,true,DME,Europe,Moscow,137 мс
+104.18.77.234,443,true,DME,Europe,Moscow,157 мс
+104.18.81.194,443,true,DME,Europe,Moscow,138 мс
+104.18.85.186,443,true,DME,Europe,Moscow,156 мс
+104.18.89.151,443,true,DME,Europe,Moscow,159 мс
+104.18.93.243,443,true,DME,Europe,Moscow,158 мс
+104.18.97.129,443,true,DME,Europe,Moscow,162 мс
+104.18.101.73,443,true,DME,Europe,Moscow,140 мс
+104.18.112.132,443,true,DME,Europe,Moscow,139 мс
+104.18.113.14,443,true,DME,Europe,Moscow,152 мс
+104.18.116.238,443,true,DME,Europe,Moscow,155 мс
+104.18.120.210,443,true,DME,Europe,Moscow,167 мс
+104.18.124.199,443,true,DME,Europe,Moscow,151 мс
+104.18.132.136,443,true,DME,Europe,Moscow,140 мс
+104.18.132.142,443,true,DME,Europe,Moscow,137 мс
+104.18.136.149,443,true,DME,Europe,Moscow,136 мс
+104.18.140.105,443,true,DME,Europe,Moscow,139 мс
+104.18.144.128,443,true,DME,Europe,Moscow,152 мс
+104.18.158.245,443,true,DME,Europe,Moscow,162 мс
+104.18.159.235,443,true,DME,Europe,Moscow,136 мс
+104.18.163.227,443,true,DME,Europe,Moscow,144 мс
+104.18.181.104,443,true,DME,Europe,Moscow,142 мс
+104.18.198.97,443,true,DME,Europe,Moscow,141 мс
+104.18.198.242,443,true,DME,Europe,Moscow,150 мс
+104.18.202.230,443,true,DME,Europe,Moscow,141 мс
+104.18.206.208,443,true,DME,Europe,Moscow,136 мс
+104.18.210.180,443,true,DME,Europe,Moscow,139 мс
+104.18.214.161,443,true,DME,Europe,Moscow,145 мс
+104.18.218.143,443,true,DME,Europe,Moscow,137 мс
+104.18.226.72,443,true,DME,Europe,Moscow,152 мс
+104.18.226.114,443,true,DME,Europe,Moscow,154 мс
+104.18.230.50,443,true,DME,Europe,Moscow,153 мс
+104.18.234.127,443,true,DME,Europe,Moscow,139 мс
+104.18.238.8,443,true,DME,Europe,Moscow,146 мс
+104.18.241.242,443,true,DME,Europe,Moscow,161 мс
+104.18.245.224,443,true,DME,Europe,Moscow,140 мс
+104.18.250.23,443,true,DME,Europe,Moscow,160 мс
+104.18.253.175,443,true,RIX,Europe,Riga,147 мс
+104.19.15.149,443,true,DME,Europe,Moscow,146 мс
+104.19.17.44,443,true,DME,Europe,Moscow,142 мс
+104.19.21.17,443,true,DME,Europe,Moscow,138 мс
+104.19.21.33,443,true,DME,Europe,Moscow,153 мс
+104.19.25.22,443,true,DME,Europe,Moscow,137 мс
+104.19.28.228,443,true,DME,Europe,Moscow,135 мс
+104.19.28.225,443,true,DME,Europe,Moscow,135 мс
+104.19.28.227,443,true,DME,Europe,Moscow,136 мс
+104.19.28.226,443,true,DME,Europe,Moscow,146 мс
+104.19.32.202,443,true,DME,Europe,Moscow,136 мс
+104.19.32.201,443,true,DME,Europe,Moscow,138 мс
+104.19.32.203,443,true,DME,Europe,Moscow,140 мс
+104.19.32.206,443,true,RIX,Europe,Riga,146 мс
+104.19.32.204,443,true,DME,Europe,Moscow,151 мс
+104.19.36.178,443,true,DME,Europe,Moscow,135 мс
+104.19.36.177,443,true,DME,Europe,Moscow,141 мс
+104.19.36.193,443,true,RIX,Europe,Riga,144 мс
+104.19.36.180,443,true,DME,Europe,Moscow,169 мс
+104.19.40.153,443,true,DME,Europe,Moscow,137 мс
+104.19.40.156,443,true,DME,Europe,Moscow,138 мс
+104.19.40.157,443,true,DME,Europe,Moscow,151 мс
+104.19.40.155,443,true,DME,Europe,Moscow,153 мс
+104.19.40.154,443,true,DME,Europe,Moscow,154 мс
+104.19.44.133,443,true,DME,Europe,Moscow,136 мс
+104.19.44.131,443,true,DME,Europe,Moscow,137 мс
+104.19.44.134,443,true,DME,Europe,Moscow,138 мс
+104.19.44.132,443,true,RIX,Europe,Riga,145 мс
+104.19.44.168,443,true,DME,Europe,Moscow,153 мс
+104.19.44.130,443,true,DME,Europe,Moscow,153 мс
+104.19.48.109,443,true,DME,Europe,Moscow,137 мс
+104.19.48.115,443,true,DME,Europe,Moscow,137 мс
+104.19.48.107,443,true,DME,Europe,Moscow,138 мс
+104.19.48.105,443,true,DME,Europe,Moscow,139 мс
+104.19.48.108,443,true,RIX,Europe,Riga,146 мс
+104.19.52.11,443,true,RIX,Europe,Riga,146 мс
+104.19.48.106,443,true,DME,Europe,Moscow,149 мс
+104.19.52.84,443,true,DME,Europe,Moscow,135 мс
+104.19.52.81,443,true,DME,Europe,Moscow,136 мс
+104.19.52.86,443,true,RIX,Europe,Riga,144 мс
+104.19.52.82,443,true,DME,Europe,Moscow,144 мс
+104.19.52.87,443,true,DME,Europe,Moscow,147 мс
+104.19.56.56,443,true,DME,Europe,Moscow,149 мс
+104.19.52.83,443,true,DME,Europe,Moscow,159 мс
+104.19.56.59,443,true,DME,Europe,Moscow,137 мс
+104.19.56.76,443,true,DME,Europe,Moscow,138 мс
+104.19.56.58,443,true,DME,Europe,Moscow,139 мс
+104.19.56.57,443,true,DME,Europe,Moscow,140 мс
+104.19.56.61,443,true,DME,Europe,Moscow,140 мс
+104.19.56.77,443,true,DME,Europe,Moscow,151 мс
+104.19.56.60,443,true,DME,Europe,Moscow,151 мс
+104.19.138.64,443,true,WAW,Europe,Warsaw,167 мс
+104.19.137.109,443,true,WAW,Europe,Warsaw,168 мс
+104.19.138.93,443,true,WAW,Europe,Warsaw,168 мс
+104.19.161.212,443,true,RIX,Europe,Riga,146 мс
+104.19.177.82,443,true,DME,Europe,Moscow,151 мс
+104.19.181.73,443,true,DME,Europe,Moscow,139 мс
+104.19.181.72,443,true,RIX,Europe,Riga,146 мс
+104.19.188.55,443,true,DME,Europe,Moscow,189 мс
+104.19.185.47,443,true,DME,Europe,Moscow,191 мс
+104.19.185.51,443,true,DME,Europe,Moscow,191 мс
+104.19.185.49,443,true,DME,Europe,Moscow,203 мс
+104.19.185.33,443,true,DME,Europe,Moscow,203 мс
+104.19.185.46,443,true,DME,Europe,Moscow,215 мс
+104.19.189.18,443,true,DME,Europe,Moscow,138 мс
+104.19.189.17,443,true,DME,Europe,Moscow,138 мс
+104.19.189.9,443,true,DME,Europe,Moscow,139 мс
+104.19.189.16,443,true,DME,Europe,Moscow,139 мс
+104.19.189.14,443,true,DME,Europe,Moscow,140 мс
+104.19.189.15,443,true,DME,Europe,Moscow,141 мс
+104.19.189.21,443,true,DME,Europe,Moscow,142 мс
+104.19.189.34,443,true,DME,Europe,Moscow,143 мс
+104.19.192.37,443,true,DME,Europe,Moscow,143 мс
+104.19.189.11,443,true,RIX,Europe,Riga,145 мс
+104.19.189.47,443,true,DME,Europe,Moscow,146 мс
+104.19.189.13,443,true,DME,Europe,Moscow,155 мс
+104.19.189.12,443,true,DME,Europe,Moscow,155 мс
+104.19.192.27,443,true,DME,Europe,Moscow,155 мс
+104.19.189.10,443,true,DME,Europe,Moscow,160 мс
+104.19.192.254,443,true,DME,Europe,Moscow,139 мс
+104.19.193.94,443,true,DME,Europe,Moscow,139 мс
+104.19.195.235,443,true,DME,Europe,Moscow,141 мс
+104.19.193.92,443,true,RIX,Europe,Riga,145 мс
+104.19.192.244,443,true,DME,Europe,Moscow,147 мс
+104.19.192.242,443,true,DME,Europe,Moscow,152 мс
+104.19.192.243,443,true,DME,Europe,Moscow,162 мс
+104.19.193.93,443,true,DME,Europe,Moscow,162 мс
+104.19.193.1,443,true,DME,Europe,Moscow,171 мс
+104.19.196.232,443,true,DME,Europe,Moscow,138 мс
+104.19.196.229,443,true,DME,Europe,Moscow,139 мс
+104.19.196.238,443,true,DME,Europe,Moscow,143 мс
+104.19.196.220,443,true,DME,Europe,Moscow,144 мс
+104.19.196.223,443,true,DME,Europe,Moscow,154 мс
+104.19.196.228,443,true,DME,Europe,Moscow,154 мс
+104.19.196.226,443,true,DME,Europe,Moscow,156 мс
+104.20.19.23,443,true,AMS,Europe,Amsterdam,1605 мс
+104.20.19.22,443,true,AMS,Europe,Amsterdam,1605 мс
+104.20.19.14,443,true,AMS,Europe,Amsterdam,1622 мс
+104.20.19.13,443,true,AMS,Europe,Amsterdam,1623 мс
+104.20.19.11,443,true,AMS,Europe,Amsterdam,1624 мс
+104.20.18.249,443,true,AMS,Europe,Amsterdam,1641 мс
+104.20.22.230,443,true,AMS,Europe,Amsterdam,1425 мс
+104.20.22.233,443,true,AMS,Europe,Amsterdam,1426 мс
+104.20.37.233,443,true,AMS,Europe,Amsterdam,199 мс
+104.20.37.249,443,true,AMS,Europe,Amsterdam,199 мс
+104.20.37.225,443,true,AMS,Europe,Amsterdam,204 мс
+104.20.34.175,443,true,AMS,Europe,Amsterdam,300 мс
+104.20.37.209,443,true,AMS,Europe,Amsterdam,331 мс
+104.20.37.176,443,true,AMS,Europe,Amsterdam,1371 мс
+104.20.37.177,443,true,AMS,Europe,Amsterdam,1372 мс
+104.20.37.179,443,true,AMS,Europe,Amsterdam,1373 мс
+104.20.37.189,443,true,AMS,Europe,Amsterdam,1373 мс
+104.20.38.153,443,true,AMS,Europe,Amsterdam,163 мс
+104.20.41.162,443,true,AMS,Europe,Amsterdam,164 мс
+104.20.41.166,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.38.147,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.41.180,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.38.150,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.41.176,443,true,AMS,Europe,Amsterdam,174 мс
+104.20.38.156,443,true,AMS,Europe,Amsterdam,174 мс
+104.20.41.192,443,true,AMS,Europe,Amsterdam,175 мс
+104.20.38.166,443,true,AMS,Europe,Amsterdam,176 мс
+104.20.41.190,443,true,AMS,Europe,Amsterdam,177 мс
+104.20.38.168,443,true,AMS,Europe,Amsterdam,178 мс
+104.20.41.196,443,true,AMS,Europe,Amsterdam,180 мс
+104.20.41.209,443,true,AMS,Europe,Amsterdam,181 мс
+104.20.38.180,443,true,AMS,Europe,Amsterdam,182 мс
+104.20.41.206,443,true,AMS,Europe,Amsterdam,182 мс
+104.20.38.176,443,true,AMS,Europe,Amsterdam,186 мс
+104.20.41.212,443,true,AMS,Europe,Amsterdam,190 мс
+104.20.42.132,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.44.46,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.45.157,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.45.165,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.42.116,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.45.174,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.45.150,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.45.144,443,true,AMS,Europe,Amsterdam,172 мс
+104.20.45.153,443,true,AMS,Europe,Amsterdam,173 мс
+104.20.45.164,443,true,AMS,Europe,Amsterdam,177 мс
+104.20.45.189,443,true,AMS,Europe,Amsterdam,177 мс
+104.20.45.187,443,true,AMS,Europe,Amsterdam,177 мс
+104.20.53.62,443,true,AMS,Europe,Amsterdam,201 мс
+104.20.54.32,443,true,AMS,Europe,Amsterdam,203 мс
+104.20.53.59,443,true,AMS,Europe,Amsterdam,210 мс
+104.20.53.63,443,true,AMS,Europe,Amsterdam,211 мс
+104.20.53.66,443,true,AMS,Europe,Amsterdam,221 мс
+104.20.50.219,443,true,AMS,Europe,Amsterdam,231 мс
+104.20.53.228,443,true,AMS,Europe,Amsterdam,232 мс
+104.20.53.69,443,true,AMS,Europe,Amsterdam,240 мс
+104.20.53.113,443,true,AMS,Europe,Amsterdam,242 мс
+104.20.53.154,443,true,AMS,Europe,Amsterdam,251 мс
+104.20.53.77,443,true,AMS,Europe,Amsterdam,259 мс
+104.20.57.108,443,true,AMS,Europe,Amsterdam,163 мс
+104.20.57.50,443,true,AMS,Europe,Amsterdam,163 мс
+104.20.57.111,443,true,AMS,Europe,Amsterdam,163 мс
+104.20.58.8,443,true,AMS,Europe,Amsterdam,164 мс
+104.20.57.54,443,true,AMS,Europe,Amsterdam,164 мс
+104.20.57.75,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.57.96,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.57.40,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.57.38,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.57.46,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.55.230,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.57.99,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.57.114,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.57.124,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.57.39,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.57.47,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.57.83,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.57.44,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.55.102,443,true,AMS,Europe,Amsterdam,196 мс
+104.20.54.42,443,true,AMS,Europe,Amsterdam,201 мс
+104.20.58.12,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.58.27,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.61.39,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.58.22,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.58.26,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.58.33,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.58.40,443,true,AMS,Europe,Amsterdam,172 мс
+104.20.58.38,443,true,AMS,Europe,Amsterdam,175 мс
+104.20.61.52,443,true,AMS,Europe,Amsterdam,176 мс
+104.20.58.42,443,true,AMS,Europe,Amsterdam,177 мс
+104.20.61.253,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.61.243,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.65.70,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.65.73,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.62.6,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.65.74,443,true,AMS,Europe,Amsterdam,173 мс
+104.20.65.81,443,true,AMS,Europe,Amsterdam,174 мс
+104.20.62.62,443,true,AMS,Europe,Amsterdam,175 мс
+104.20.65.96,443,true,AMS,Europe,Amsterdam,176 мс
+104.20.68.253,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.69.0,443,true,AMS,Europe,Amsterdam,177 мс
+104.20.72.201,443,true,AMS,Europe,Amsterdam,174 мс
+104.20.72.212,443,true,AMS,Europe,Amsterdam,1315 мс
+104.20.82.70,443,true,AMS,Europe,Amsterdam,2190 мс
+104.20.170.108,443,true,AMS,Europe,Amsterdam,507 мс
+104.20.174.90,443,true,AMS,Europe,Amsterdam,205 мс
+104.20.174.87,443,true,AMS,Europe,Amsterdam,207 мс
+104.20.174.89,443,true,AMS,Europe,Amsterdam,211 мс
+104.20.174.92,443,true,AMS,Europe,Amsterdam,1559 мс
+104.20.174.94,443,true,AMS,Europe,Amsterdam,1560 мс
+104.20.174.96,443,true,AMS,Europe,Amsterdam,1561 мс
+104.20.174.100,443,true,AMS,Europe,Amsterdam,1561 мс
+104.20.178.97,443,true,AMS,Europe,Amsterdam,215 мс
+104.20.178.117,443,true,AMS,Europe,Amsterdam,215 мс
+104.20.178.82,443,true,AMS,Europe,Amsterdam,216 мс
+104.20.175.88,443,true,AMS,Europe,Amsterdam,217 мс
+104.20.175.123,443,true,AMS,Europe,Amsterdam,217 мс
+104.20.175.69,443,true,AMS,Europe,Amsterdam,217 мс
+104.20.175.82,443,true,AMS,Europe,Amsterdam,218 мс
+104.20.175.70,443,true,AMS,Europe,Amsterdam,219 мс
+104.20.175.106,443,true,AMS,Europe,Amsterdam,219 мс
+104.20.178.126,443,true,AMS,Europe,Amsterdam,219 мс
+104.20.179.32,443,true,AMS,Europe,Amsterdam,220 мс
+104.20.175.99,443,true,AMS,Europe,Amsterdam,220 мс
+104.20.175.67,443,true,AMS,Europe,Amsterdam,221 мс
+104.20.175.115,443,true,AMS,Europe,Amsterdam,221 мс
+104.20.178.124,443,true,AMS,Europe,Amsterdam,222 мс
+104.20.175.78,443,true,AMS,Europe,Amsterdam,222 мс
+104.20.175.108,443,true,AMS,Europe,Amsterdam,222 мс
+104.20.175.89,443,true,AMS,Europe,Amsterdam,222 мс
+104.20.181.245,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.182.49,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.182.41,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.179.60,443,true,AMS,Europe,Amsterdam,172 мс
+104.20.179.44,443,true,AMS,Europe,Amsterdam,173 мс
+104.20.179.57,443,true,AMS,Europe,Amsterdam,176 мс
+104.20.182.67,443,true,AMS,Europe,Amsterdam,177 мс
+104.20.182.75,443,true,AMS,Europe,Amsterdam,179 мс
+104.20.182.68,443,true,AMS,Europe,Amsterdam,179 мс
+104.20.179.76,443,true,AMS,Europe,Amsterdam,183 мс
+104.20.179.72,443,true,AMS,Europe,Amsterdam,184 мс
+104.20.182.83,443,true,AMS,Europe,Amsterdam,185 мс
+104.20.183.21,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.183.45,443,true,AMS,Europe,Amsterdam,173 мс
+104.20.186.53,443,true,AMS,Europe,Amsterdam,173 мс
+104.20.186.63,443,true,AMS,Europe,Amsterdam,174 мс
+104.20.183.59,443,true,AMS,Europe,Amsterdam,177 мс
+104.20.186.80,443,true,AMS,Europe,Amsterdam,180 мс
+104.20.186.100,443,true,AMS,Europe,Amsterdam,188 мс
+104.20.186.249,443,true,AMS,Europe,Amsterdam,164 мс
+104.20.190.37,443,true,AMS,Europe,Amsterdam,164 мс
+104.20.188.195,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.188.176,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.187.119,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.187.4,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.187.134,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.190.211,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.186.255,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.189.27,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.188.245,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.190.216,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.190.44,443,true,AMS,Europe,Amsterdam,172 мс
+104.20.190.218,443,true,AMS,Europe,Amsterdam,163 мс
+104.20.190.221,443,true,AMS,Europe,Amsterdam,164 мс
+104.20.191.221,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.190.219,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.190.224,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.193.227,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.190.223,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.193.235,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.190.220,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.193.226,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.190.217,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.190.222,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.193.243,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.190.225,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.190.229,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.190.247,443,true,AMS,Europe,Amsterdam,173 мс
+104.20.190.238,443,true,AMS,Europe,Amsterdam,174 мс
+104.20.197.207,443,true,AMS,Europe,Amsterdam,220 мс
+104.20.194.231,443,true,AMS,Europe,Amsterdam,220 мс
+104.20.197.216,443,true,AMS,Europe,Amsterdam,221 мс
+104.20.194.221,443,true,AMS,Europe,Amsterdam,222 мс
+104.20.194.206,443,true,AMS,Europe,Amsterdam,225 мс
+104.20.197.225,443,true,AMS,Europe,Amsterdam,225 мс
+104.20.194.207,443,true,AMS,Europe,Amsterdam,225 мс
+104.20.194.250,443,true,AMS,Europe,Amsterdam,228 мс
+104.20.195.5,443,true,AMS,Europe,Amsterdam,229 мс
+104.20.195.65,443,true,AMS,Europe,Amsterdam,234 мс
+104.21.55.111,443,true,HKG,Asia Pacific,Hong Kong,457 мс
+104.21.52.16,443,true,HKG,Asia Pacific,Hong Kong,458 мс
+104.21.52.21,443,true,HKG,Asia Pacific,Hong Kong,1844 мс
+104.21.55.69,443,true,HKG,Asia Pacific,Hong Kong,2250 мс
+104.21.55.70,443,true,HKG,Asia Pacific,Hong Kong,2251 мс
+104.21.55.71,443,true,HKG,Asia Pacific,Hong Kong,2252 мс
+104.21.192.168,443,true,ORD,North America,Chicago,243 мс
+104.21.192.178,443,true,YYZ,North America,Toronto,240 мс
+104.21.192.170,443,true,ORD,North America,Chicago,241 мс
+104.21.192.169,443,true,ATL,North America,Atlanta,253 мс
+104.21.196.151,443,true,CDG,Europe,Paris,164 мс
+104.21.196.146,443,true,CDG,Europe,Paris,164 мс
+104.21.196.145,443,true,EWR,North America,Newark,232 мс
+104.21.200.123,443,true,VIE,Europe,Vienna,167 мс
+104.21.200.122,443,true,WAW,Europe,Warsaw,169 мс
+104.21.200.124,443,true,EWR,North America,Newark,229 мс
+104.21.200.125,443,true,YYZ,North America,Toronto,235 мс
+104.21.200.126,443,true,YYZ,North America,Toronto,239 мс
+104.21.200.121,443,true,YYZ,North America,Toronto,240 мс
+104.21.208.72,443,true,AMS,Europe,Amsterdam,159 мс
+104.21.207.105,443,true,WAW,Europe,Warsaw,166 мс
+104.21.207.102,443,true,WAW,Europe,Warsaw,166 мс
+104.21.207.106,443,true,WAW,Europe,Warsaw,170 мс
+104.21.207.104,443,true,YUL,North America,Montréal,240 мс
+104.21.207.103,443,true,DFW,North America,Dallas,267 мс
+104.21.208.76,443,true,AMS,Europe,Amsterdam,161 мс
+104.21.208.77,443,true,CDG,Europe,Paris,163 мс
+104.21.208.86,443,true,LHR,Europe,London,163 мс
+104.21.208.75,443,true,YUL,North America,Montréal,235 мс
+104.21.208.73,443,true,YUL,North America,Montréal,238 мс
+104.21.208.74,443,true,ATL,North America,Atlanta,249 мс
+104.21.212.50,443,true,WAW,Europe,Warsaw,167 мс
+104.21.212.59,443,true,WAW,Europe,Warsaw,167 мс
+104.21.212.52,443,true,WAW,Europe,Warsaw,168 мс
+104.21.212.53,443,true,EWR,North America,Newark,236 мс
+104.21.212.54,443,true,YYZ,North America,Toronto,236 мс
+104.21.212.49,443,true,YYZ,North America,Toronto,239 мс
+104.21.212.51,443,true,ATL,North America,Atlanta,250 мс
+104.21.219.43,443,true,AMS,Europe,Amsterdam,166 мс
+104.21.219.40,443,true,WAW,Europe,Warsaw,170 мс
+104.21.219.44,443,true,WAW,Europe,Warsaw,171 мс
+104.21.223.33,443,true,DME,Europe,Moscow,247 мс
+104.21.231.54,443,true,WAW,Europe,Warsaw,326 мс
+104.23.110.5,443,true,AMS,Europe,Amsterdam,164 мс
+104.23.110.103,443,true,AMS,Europe,Amsterdam,169 мс
+104.23.114.97,443,true,AMS,Europe,Amsterdam,167 мс
+104.23.118.51,443,true,AMS,Europe,Amsterdam,169 мс
+104.23.122.66,443,true,AMS,Europe,Amsterdam,163 мс
+104.23.126.4,443,true,AMS,Europe,Amsterdam,163 мс
+104.23.129.225,443,true,AMS,Europe,Amsterdam,165 мс
+104.23.133.202,443,true,AMS,Europe,Amsterdam,198 мс
+104.23.137.181,443,true,AMS,Europe,Amsterdam,164 мс
+104.24.210.199,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.24.210.197,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.24.210.202,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.24.210.198,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.24.210.203,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.24.213.148,443,true,HKG,Asia Pacific,Hong Kong,191 мс
+104.25.31.241,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.32.21,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.25.32.19,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.25.35.217,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.36.25,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.35.218,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.35.220,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.35.219,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.39.194,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.43.171,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.51.120,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.50.150,443,true,HKG,Asia Pacific,Hong Kong,211 мс
+104.25.55.97,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.67.25,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.67.27,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.67.51,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.67.26,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.71.2,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.71.8,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.71.1,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.74.252,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.78.2,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.78.3,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.78.208,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.74.234,443,true,HKG,Asia Pacific,Hong Kong,240 мс
+104.25.78.1,443,true,HKG,Asia Pacific,Hong Kong,261 мс
+104.25.78.12,443,true,HKG,Asia Pacific,Hong Kong,289 мс
+104.25.74.237,443,true,HKG,Asia Pacific,Hong Kong,289 мс
+104.25.78.212,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.78.209,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.78.244,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.78.243,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.78.219,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.81.249,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.78.210,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.78.211,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.78.226,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.82.2,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.82.187,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.82.208,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.82.191,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.85.215,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.82.186,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.86.160,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.82.190,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.82.192,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.82.189,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.85.214,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.85.217,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.85.216,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.82.188,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.82.185,443,true,HKG,Asia Pacific,Hong Kong,194 мс
+104.25.86.163,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.90.137,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.90.140,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.90.157,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.25.90.153,443,true,HKG,Asia Pacific,Hong Kong,193 мс
+104.25.97.184,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.175.151,443,true,HKG,Asia Pacific,Hong Kong,274 мс
+104.25.175.150,443,true,HKG,Asia Pacific,Hong Kong,275 мс
+104.25.172.241,443,true,HKG,Asia Pacific,Hong Kong,493 мс
+104.25.172.145,443,true,HKG,Asia Pacific,Hong Kong,892 мс
+104.25.176.222,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.179.99,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.176.130,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.176.132,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.179.100,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.176.133,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.180.97,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.180.158,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.180.159,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.180.104,443,true,HKG,Asia Pacific,Hong Kong,241 мс
+104.25.188.55,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.192.81,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.192.26,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.192.25,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.196.3,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.196.1,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.199.232,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.196.105,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.196.4,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.196.2,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.207.186,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.207.231,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.207.190,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.207.188,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.207.191,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.207.189,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.207.185,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.207.198,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.207.187,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.211.161,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.211.170,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.211.164,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.211.163,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.211.162,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.211.165,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.219.112,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.218.148,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.25.219.114,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.219.128,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.219.113,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.219.115,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.219.117,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.219.116,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.223.92,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.223.90,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.223.94,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.223.91,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.223.93,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.223.108,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.223.99,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.223.89,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.227.64,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.223.96,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.223.100,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.223.98,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.223.95,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.223.97,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.230.75,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.230.70,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.230.71,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.230.76,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.230.73,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.230.80,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.230.72,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.230.81,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.230.74,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.230.79,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.231.40,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.230.77,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.230.93,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.230.89,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.230.69,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.231.42,443,true,HKG,Asia Pacific,Hong Kong,179 мс
+104.25.231.51,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.231.46,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.231.41,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.231.44,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.231.48,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.231.45,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.234.61,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.231.61,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.231.43,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.234.63,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.235.16,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.231.47,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.234.65,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.231.49,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.20.151.96,443,true,AMS,Europe,Amsterdam,2713 мс
+104.20.151.30,443,true,AMS,Europe,Amsterdam,3560 мс
+104.20.160.65,443,true,AMS,Europe,Amsterdam,206 мс
+104.20.170.213,443,true,AMS,Europe,Amsterdam,163 мс
+104.20.170.216,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.170.214,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.170.215,443,true,AMS,Europe,Amsterdam,171 мс
+104.20.170.232,443,true,AMS,Europe,Amsterdam,173 мс
+104.20.170.229,443,true,AMS,Europe,Amsterdam,176 мс
+104.20.170.230,443,true,AMS,Europe,Amsterdam,177 мс
+104.20.170.231,443,true,AMS,Europe,Amsterdam,178 мс
+104.20.171.184,443,true,AMS,Europe,Amsterdam,180 мс
+104.20.170.217,443,true,AMS,Europe,Amsterdam,182 мс
+104.20.168.249,443,true,AMS,Europe,Amsterdam,246 мс
+104.20.168.252,443,true,AMS,Europe,Amsterdam,246 мс
+104.20.168.250,443,true,AMS,Europe,Amsterdam,247 мс
+104.20.171.191,443,true,AMS,Europe,Amsterdam,164 мс
+104.20.171.185,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.176.4,443,true,AMS,Europe,Amsterdam,163 мс
+104.20.179.7,443,true,AMS,Europe,Amsterdam,163 мс
+104.20.176.3,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.176.2,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.176.1,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.176.5,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.180.70,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.179.233,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.187.186,443,true,AMS,Europe,Amsterdam,164 мс
+104.20.191.254,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.191.198,443,true,AMS,Europe,Amsterdam,167 мс
+104.20.240.76,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.247.209,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.248.82,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.255.161,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.255.163,443,true,AMS,Europe,Amsterdam,165 мс
+104.20.255.209,443,true,AMS,Europe,Amsterdam,166 мс
+104.20.255.207,443,true,AMS,Europe,Amsterdam,168 мс
+104.20.255.210,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.255.254,443,true,AMS,Europe,Amsterdam,169 мс
+104.20.255.164,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.255.211,443,true,AMS,Europe,Amsterdam,170 мс
+104.20.255.162,443,true,AMS,Europe,Amsterdam,171 мс
+104.21.6.255,443,true,DME,Europe,Moscow,227 мс
+104.21.7.24,443,true,CDG,Europe,Paris,351 мс
+104.21.7.214,443,true,AMS,Europe,Amsterdam,158 мс
+104.21.10.239,443,true,AMS,Europe,Amsterdam,160 мс
+104.21.10.253,443,true,WAW,Europe,Warsaw,173 мс
+104.21.7.221,443,true,YYZ,North America,Toronto,235 мс
+104.21.11.227,443,true,CDG,Europe,Paris,162 мс
+104.21.14.213,443,true,WAW,Europe,Warsaw,167 мс
+104.21.14.240,443,true,WAW,Europe,Warsaw,169 мс
+104.21.14.241,443,true,WAW,Europe,Warsaw,170 мс
+104.21.14.229,443,true,WAW,Europe,Warsaw,170 мс
+104.21.14.202,443,true,YYZ,North America,Toronto,235 мс
+104.21.14.233,443,true,YYZ,North America,Toronto,236 мс
+104.21.19.174,443,true,HKG,Asia Pacific,Hong Kong,276 мс
+104.21.2.65,443,true,WAW,Europe,Warsaw,2729 мс
+104.21.3.241,443,true,WAW,Europe,Warsaw,8516 мс
+104.21.32.238,443,true,HKG,Asia Pacific,Hong Kong,2061 мс
+104.21.34.236,443,true,HKG,Asia Pacific,Hong Kong,2925 мс
+104.21.33.136,443,true,HKG,Asia Pacific,Hong Kong,4001 мс
+104.21.60.64,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.60.63,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.43.193,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.47.155,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.45.130,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.47.207,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.51.237,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.21.52.76,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.21.51.240,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.51.233,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.55.208,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.51.236,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.51.239,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.51.234,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.54.209,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.51.235,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.21.51.241,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.21.51.238,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.21.57.92,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.62.205,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.21.63.166,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.21.63.163,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.21.63.180,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.21.63.190,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.21.63.167,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.21.63.183,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.21.63.164,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.21.63.199,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.63.165,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.63.216,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.63.223,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.63.254,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.21.67.7,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.21.64.5,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.67.30,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.21.67.48,443,true,HKG,Asia Pacific,Hong Kong,194 мс
+104.21.67.237,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.67.236,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.67.233,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.67.235,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.70.247,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.67.252,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.21.70.248,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.21.67.238,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.21.67.251,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.21.70.253,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.21.67.234,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.21.67.250,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.21.67.255,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.21.71.208,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.21.70.255,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.21.73.10,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.21.72.165,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.21.73.9,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.21.71.219,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.72.229,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.71.213,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.71.224,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.71.226,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.72.231,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.74.237,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.21.74.240,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.21.74.245,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.21.71.216,443,true,HKG,Asia Pacific,Hong Kong,199 мс
+104.21.76.29,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.21.75.194,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.21.76.85,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.76.32,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.21.76.35,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.21.75.202,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.21.75.195,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.21.82.168,443,true,WAW,Europe,Warsaw,179 мс
+104.21.90.95,443,true,WAW,Europe,Warsaw,348 мс
+104.21.94.115,443,true,WAW,Europe,Warsaw,215 мс
+104.21.94.162,443,true,AMS,Europe,Amsterdam,289 мс
+104.21.72.2,443,true,HKG,Asia Pacific,Hong Kong,1700 мс
+104.21.79.254,443,true,HKG,Asia Pacific,Hong Kong,225 мс
+104.21.80.109,443,true,WAW,Europe,Warsaw,3721 мс
+104.21.84.116,443,true,WAW,Europe,Warsaw,245 мс
+104.21.87.171,443,true,WAW,Europe,Warsaw,720 мс
+104.21.87.46,443,true,ORD,North America,Chicago,1444 мс
+104.21.127.76,443,true,WAW,Europe,Warsaw,179 мс
+104.21.115.107,443,true,CDG,Europe,Paris,219 мс
+104.21.120.69,443,true,DME,Europe,Moscow,157 мс
+104.21.119.210,443,true,WAW,Europe,Warsaw,167 мс
+104.21.127.168,443,true,DME,Europe,Moscow,144 мс
+104.21.195.235,443,true,AMS,Europe,Amsterdam,160 мс
+104.21.196.3,443,true,CDG,Europe,Paris,168 мс
+104.21.199.29,443,true,CDG,Europe,Paris,173 мс
+104.21.199.18,443,true,CDG,Europe,Paris,174 мс
+104.21.196.19,443,true,WAW,Europe,Warsaw,176 мс
+104.21.196.49,443,true,AMS,Europe,Amsterdam,176 мс
+104.21.196.39,443,true,CDG,Europe,Paris,177 мс
+104.21.199.38,443,true,WAW,Europe,Warsaw,180 мс
+104.21.199.41,443,true,CDG,Europe,Paris,180 мс
+104.21.196.28,443,true,EWR,North America,Newark,239 мс
+104.21.196.12,443,true,YYZ,North America,Toronto,240 мс
+104.21.196.48,443,true,YYZ,North America,Toronto,255 мс
+104.21.199.52,443,true,YYZ,North America,Toronto,255 мс
+104.21.196.37,443,true,ATL,North America,Atlanta,262 мс
+104.21.196.50,443,true,ATL,North America,Atlanta,264 мс
+104.21.196.51,443,true,ATL,North America,Atlanta,266 мс
+104.21.195.247,443,true,DFW,North America,Dallas,269 мс
+104.21.202.226,443,true,AMS,Europe,Amsterdam,162 мс
+104.21.203.184,443,true,WAW,Europe,Warsaw,167 мс
+104.21.202.214,443,true,WAW,Europe,Warsaw,167 мс
+104.21.202.235,443,true,WAW,Europe,Warsaw,169 мс
+104.21.202.239,443,true,WAW,Europe,Warsaw,170 мс
+104.21.202.247,443,true,WAW,Europe,Warsaw,170 мс
+104.21.202.254,443,true,WAW,Europe,Warsaw,176 мс
+104.21.199.216,443,true,AMS,Europe,Amsterdam,215 мс
+104.21.202.215,443,true,EWR,North America,Newark,227 мс
+104.21.202.216,443,true,YYZ,North America,Toronto,236 мс
+104.21.202.217,443,true,YUL,North America,Montréal,239 мс
+104.21.199.221,443,true,ATL,North America,Atlanta,258 мс
+104.21.203.200,443,true,DME,Europe,Moscow,142 мс
+104.21.206.215,443,true,AMS,Europe,Amsterdam,159 мс
+104.21.206.209,443,true,AMS,Europe,Amsterdam,159 мс
+104.21.203.185,443,true,AMS,Europe,Amsterdam,162 мс
+104.21.207.20,443,true,CDG,Europe,Paris,168 мс
+104.21.203.230,443,true,WAW,Europe,Warsaw,178 мс
+104.21.207.33,443,true,WAW,Europe,Warsaw,178 мс
+104.21.203.231,443,true,WAW,Europe,Warsaw,179 мс
+104.21.207.43,443,true,AMS,Europe,Amsterdam,211 мс
+104.21.203.223,443,true,EWR,North America,Newark,241 мс
+104.21.206.212,443,true,ATL,North America,Atlanta,248 мс
+104.21.203.229,443,true,ATL,North America,Atlanta,259 мс
+104.21.207.161,443,true,DME,Europe,Moscow,136 мс
+104.21.207.165,443,true,DME,Europe,Moscow,139 мс
+104.21.210.95,443,true,AMS,Europe,Amsterdam,158 мс
+104.21.208.75,443,true,CDG,Europe,Paris,163 мс
+104.21.211.78,443,true,CDG,Europe,Paris,163 мс
+104.21.208.174,443,true,AMS,Europe,Amsterdam,164 мс
+104.21.207.183,443,true,AMS,Europe,Amsterdam,164 мс
+104.21.210.135,443,true,WAW,Europe,Warsaw,165 мс
+104.21.207.163,443,true,WAW,Europe,Warsaw,166 мс
+104.21.207.173,443,true,WAW,Europe,Warsaw,167 мс
+104.21.211.117,443,true,YYZ,North America,Toronto,236 мс
+104.21.207.169,443,true,YUL,North America,Montréal,243 мс
+104.21.210.142,443,true,ATL,North America,Atlanta,247 мс
+104.21.207.166,443,true,ATL,North America,Atlanta,248 мс
+104.21.208.76,443,true,ATL,North America,Atlanta,248 мс
+104.21.210.179,443,true,LAX,North America,Los Angeles,296 мс
+104.21.213.78,443,true,DME,Europe,Moscow,136 мс
+104.21.213.98,443,true,WAW,Europe,Warsaw,164 мс
+104.21.213.65,443,true,WAW,Europe,Warsaw,167 мс
+104.21.218.147,443,true,DME,Europe,Moscow,154 мс
+104.21.218.141,443,true,LHR,Europe,London,168 мс
+104.21.218.161,443,true,CDG,Europe,Paris,168 мс
+104.21.218.180,443,true,WAW,Europe,Warsaw,172 мс
+104.21.218.185,443,true,WAW,Europe,Warsaw,172 мс
+104.21.218.174,443,true,WAW,Europe,Warsaw,175 мс
+104.21.218.172,443,true,AMS,Europe,Amsterdam,213 мс
+104.21.218.127,443,true,YYZ,North America,Toronto,235 мс
+104.21.218.122,443,true,YUL,North America,Montréal,235 мс
+104.21.218.124,443,true,YYZ,North America,Toronto,240 мс
+104.21.218.179,443,true,YUL,North America,Montréal,246 мс
+104.21.218.184,443,true,YUL,North America,Montréal,247 мс
+104.21.218.123,443,true,ATL,North America,Atlanta,251 мс
+104.21.218.157,443,true,YUL,North America,Montréal,262 мс
+104.21.218.118,443,true,WAW,Europe,Warsaw,264 мс
+104.21.218.121,443,true,LAX,North America,Los Angeles,294 мс
+104.21.219.129,443,true,CDG,Europe,Paris,182 мс
+104.21.222.121,443,true,WAW,Europe,Warsaw,183 мс
+104.21.219.145,443,true,CDG,Europe,Paris,183 мс
+104.21.222.139,443,true,ATL,North America,Atlanta,264 мс
+104.21.195.170,443,true,DME,Europe,Moscow,157 мс
+104.21.195.83,443,true,DME,Europe,Moscow,160 мс
+104.21.215.10,443,true,DME,Europe,Moscow,143 мс
+104.21.215.65,443,true,DME,Europe,Moscow,146 мс
+104.21.215.4,443,true,CDG,Europe,Paris,163 мс
+104.21.215.57,443,true,CDG,Europe,Paris,173 мс
+104.21.215.43,443,true,ORD,North America,Chicago,245 мс
+104.21.215.126,443,true,ATL,North America,Atlanta,265 мс
+104.21.218.249,443,true,DME,Europe,Moscow,142 мс
+104.21.218.241,443,true,WAW,Europe,Warsaw,169 мс
+104.21.218.213,443,true,AMS,Europe,Amsterdam,206 мс
+104.21.227.12,443,true,CDG,Europe,Paris,3088 мс
+104.22.8.48,443,true,AMS,Europe,Amsterdam,205 мс
+104.22.11.164,443,true,AMS,Europe,Amsterdam,611 мс
+104.22.12.141,443,true,AMS,Europe,Amsterdam,221 мс
+104.22.15.171,443,true,AMS,Europe,Amsterdam,186 мс
+104.22.51.85,443,true,AMS,Europe,Amsterdam,214 мс
+104.22.63.165,443,true,AMS,Europe,Amsterdam,185 мс
+104.22.63.243,443,true,AMS,Europe,Amsterdam,187 мс
+104.22.63.234,443,true,AMS,Europe,Amsterdam,189 мс
+104.22.63.200,443,true,AMS,Europe,Amsterdam,190 мс
+104.22.63.250,443,true,AMS,Europe,Amsterdam,191 мс
+104.22.63.206,443,true,AMS,Europe,Amsterdam,191 мс
+104.22.63.192,443,true,AMS,Europe,Amsterdam,191 мс
+104.22.63.185,443,true,AMS,Europe,Amsterdam,193 мс
+104.22.63.228,443,true,AMS,Europe,Amsterdam,193 мс
+104.22.63.202,443,true,AMS,Europe,Amsterdam,194 мс
+104.22.63.214,443,true,AMS,Europe,Amsterdam,195 мс
+104.22.63.217,443,true,AMS,Europe,Amsterdam,196 мс
+104.22.63.254,443,true,AMS,Europe,Amsterdam,218 мс
+104.22.63.162,443,true,AMS,Europe,Amsterdam,337 мс
+104.22.63.163,443,true,AMS,Europe,Amsterdam,349 мс
+104.22.78.194,443,true,AMS,Europe,Amsterdam,394 мс
+104.22.79.36,443,true,AMS,Europe,Amsterdam,407 мс
+104.22.79.188,443,true,AMS,Europe,Amsterdam,213 мс
+104.22.79.201,443,true,AMS,Europe,Amsterdam,223 мс
+104.22.79.198,443,true,AMS,Europe,Amsterdam,257 мс
+104.22.79.225,443,true,AMS,Europe,Amsterdam,260 мс
+104.22.79.200,443,true,AMS,Europe,Amsterdam,263 мс
+104.22.79.195,443,true,AMS,Europe,Amsterdam,265 мс
+104.23.99.126,443,true,AMS,Europe,Amsterdam,180 мс
+104.23.104.7,443,true,AMS,Europe,Amsterdam,324 мс
+104.23.120.123,443,true,AMS,Europe,Amsterdam,892 мс
+104.23.123.163,443,true,AMS,Europe,Amsterdam,902 мс
+104.23.120.175,443,true,AMS,Europe,Amsterdam,1182 мс
+104.23.119.209,443,true,AMS,Europe,Amsterdam,2193 мс
+104.24.18.66,443,true,HKG,Asia Pacific,Hong Kong,1668 мс
+104.24.19.250,443,true,HKG,Asia Pacific,Hong Kong,3501 мс
+104.24.41.41,443,true,HKG,Asia Pacific,Hong Kong,317 мс
+104.24.46.195,443,true,HKG,Asia Pacific,Hong Kong,1294 мс
+104.24.47.162,443,true,HKG,Asia Pacific,Hong Kong,207 мс
+104.24.63.40,443,true,HKG,Asia Pacific,Hong Kong,1252 мс
+104.24.63.161,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.24.63.170,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.24.63.168,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.24.63.164,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.24.63.167,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.24.63.183,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.24.63.219,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.24.63.228,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.24.63.227,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.24.63.188,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.24.63.230,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.24.63.202,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.24.63.246,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.24.63.214,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.24.63.251,443,true,HKG,Asia Pacific,Hong Kong,192 мс
+104.24.79.254,443,true,HKG,Asia Pacific,Hong Kong,219 мс
+104.24.79.170,443,true,HKG,Asia Pacific,Hong Kong,248 мс
+104.24.87.48,443,true,HKG,Asia Pacific,Hong Kong,3421 мс
+104.24.95.181,443,true,HKG,Asia Pacific,Hong Kong,211 мс
+104.24.95.219,443,true,HKG,Asia Pacific,Hong Kong,245 мс
+104.24.183.37,443,true,HKG,Asia Pacific,Hong Kong,2027 мс
+104.24.192.5,443,true,HKG,Asia Pacific,Hong Kong,3038 мс
+104.24.227.153,443,true,HKG,Asia Pacific,Hong Kong,305 мс
+104.24.231.38,443,true,HKG,Asia Pacific,Hong Kong,627 мс
+104.24.239.143,443,true,HKG,Asia Pacific,Hong Kong,2335 мс
+104.24.240.109,443,true,HKG,Asia Pacific,Hong Kong,1433 мс
+104.25.15.163,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.25.15.172,443,true,HKG,Asia Pacific,Hong Kong,802 мс
+104.25.16.90,443,true,HKG,Asia Pacific,Hong Kong,199 мс
+104.25.22.96,443,true,HKG,Asia Pacific,Hong Kong,1461 мс
+104.25.23.244,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.25.31.197,443,true,HKG,Asia Pacific,Hong Kong,251 мс
+104.25.31.231,443,true,HKG,Asia Pacific,Hong Kong,267 мс
+104.25.31.229,443,true,HKG,Asia Pacific,Hong Kong,268 мс
+104.25.31.224,443,true,HKG,Asia Pacific,Hong Kong,269 мс
+104.25.31.190,443,true,HKG,Asia Pacific,Hong Kong,274 мс
+104.25.31.171,443,true,HKG,Asia Pacific,Hong Kong,279 мс
+104.25.31.164,443,true,HKG,Asia Pacific,Hong Kong,281 мс
+104.25.31.165,443,true,HKG,Asia Pacific,Hong Kong,282 мс
+104.25.31.167,443,true,HKG,Asia Pacific,Hong Kong,288 мс
+104.25.32.38,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.32.1,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.32.2,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.32.17,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.35.51,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.32.26,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.35.72,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.25.39.137,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.35.233,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.35.234,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.35.235,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.39.15,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.39.23,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.39.211,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.42.222,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.42.231,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.42.224,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.39.218,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.25.42.239,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.25.39.213,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.25.42.237,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.25.42.229,443,true,HKG,Asia Pacific,Hong Kong,193 мс
+104.25.47.89,443,true,HKG,Asia Pacific,Hong Kong,206 мс
+104.25.91.136,443,true,HKG,Asia Pacific,Hong Kong,1878 мс
+104.25.95.239,443,true,HKG,Asia Pacific,Hong Kong,195 мс
+104.25.111.254,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.111.161,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.111.207,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.111.208,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.111.221,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.111.182,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.111.244,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.25.111.185,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.25.111.246,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.25.111.252,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.25.111.249,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.25.111.183,443,true,HKG,Asia Pacific,Hong Kong,192 мс
+104.25.111.201,443,true,HKG,Asia Pacific,Hong Kong,192 мс
+104.25.111.200,443,true,HKG,Asia Pacific,Hong Kong,193 мс
+104.25.111.202,443,true,HKG,Asia Pacific,Hong Kong,193 мс
+104.25.111.195,443,true,HKG,Asia Pacific,Hong Kong,194 мс
+104.25.127.221,443,true,HKG,Asia Pacific,Hong Kong,265 мс
+104.25.137.111,443,true,HKG,Asia Pacific,Hong Kong,1686 мс
+104.25.155.129,443,true,HKG,Asia Pacific,Hong Kong,201 мс
+104.25.155.127,443,true,HKG,Asia Pacific,Hong Kong,203 мс
+104.25.155.4,443,true,HKG,Asia Pacific,Hong Kong,229 мс
+104.25.158.186,443,true,HKG,Asia Pacific,Hong Kong,208 мс
+104.25.155.192,443,true,HKG,Asia Pacific,Hong Kong,449 мс
+104.25.159.172,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.159.169,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.159.162,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.159.163,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.159.186,443,true,HKG,Asia Pacific,Hong Kong,187 мс
+104.25.159.231,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.25.159.233,443,true,HKG,Asia Pacific,Hong Kong,217 мс
+104.25.161.180,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.162.132,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.161.207,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.162.140,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.162.139,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.162.136,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.162.146,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.162.145,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.166.238,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.166.248,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.167.18,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.166.239,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.167.0,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.163.233,443,true,HKG,Asia Pacific,Hong Kong,192 мс
+104.25.171.184,443,true,HKG,Asia Pacific,Hong Kong,180 мс
+104.25.170.223,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.25.170.239,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.167.248,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.25.170.245,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.167.244,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.25.171.14,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.25.168.16,443,true,HKG,Asia Pacific,Hong Kong,194 мс
+104.25.171.232,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.25.171.191,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.171.189,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.171.199,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.25.172.68,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.25.175.217,443,true,HKG,Asia Pacific,Hong Kong,192 мс
+104.25.203.19,443,true,HKG,Asia Pacific,Hong Kong,454 мс
+104.25.203.5,443,true,HKG,Asia Pacific,Hong Kong,489 мс
+104.25.207.207,443,true,HKG,Asia Pacific,Hong Kong,734 мс
+104.26.15.193,443,true,HKG,Asia Pacific,Hong Kong,828 мс
+104.27.23.179,443,true,HKG,Asia Pacific,Hong Kong,575 мс
+104.27.30.196,443,true,HKG,Asia Pacific,Hong Kong,1448 мс
+104.27.31.186,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.27.31.223,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.27.31.231,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.27.31.203,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.27.31.235,443,true,HKG,Asia Pacific,Hong Kong,188 мс
+104.27.31.215,443,true,HKG,Asia Pacific,Hong Kong,189 мс
+104.27.31.241,443,true,HKG,Asia Pacific,Hong Kong,190 мс
+104.27.32.13,443,true,HKG,Asia Pacific,Hong Kong,1448 мс
+104.27.32.3,443,true,HKG,Asia Pacific,Hong Kong,1448 мс
+104.27.32.15,443,true,HKG,Asia Pacific,Hong Kong,1448 мс
+104.27.36.114,443,true,HKG,Asia Pacific,Hong Kong,215 мс
+104.27.60.35,443,true,HKG,Asia Pacific,Hong Kong,2489 мс
+104.27.63.163,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.27.63.172,443,true,HKG,Asia Pacific,Hong Kong,181 мс
+104.27.63.169,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.27.63.246,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.27.63.203,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.27.63.180,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.27.63.250,443,true,HKG,Asia Pacific,Hong Kong,182 мс
+104.27.63.171,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.27.63.233,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.27.63.222,443,true,HKG,Asia Pacific,Hong Kong,184 мс
+104.27.63.227,443,true,HKG,Asia Pacific,Hong Kong,185 мс
+104.27.63.243,443,true,HKG,Asia Pacific,Hong Kong,186 мс
+104.27.67.23,443,true,HKG,Asia Pacific,Hong Kong,183 мс
+104.27.67.229,443,true,HKG,Asia Pacific,Hong Kong,232 мс
+104.27.71.71,443,true,HKG,Asia Pacific,Hong Kong,573 мс
+104.27.71.30,443,true,HKG,Asia Pacific,Hong Kong,779 мс
+104.27.71.36,443,true,HKG,Asia Pacific,Hong Kong,823 мс
+104.27.108.166,443,true,HKG,Asia Pacific,Hong Kong,268 мс
+104.27.108.116,443,true,HKG,Asia Pacific,Hong Kong,324 мс
+104.27.108.48,443,true,HKG,Asia Pacific,Hong Kong,329 мс
+104.27.199.19,443,true,HKG,Asia Pacific,Hong Kong,1276 мс
+172.67.238.63,443,true,AMS,Europe,Amsterdam,3166 мс
+172.67.246.78,443,true,LHR,Europe,London,3091 мс
