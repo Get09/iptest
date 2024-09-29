@@ -1,0 +1,19 @@
+IP-адрес,Порт,TLS,Дата-центр,Регион,Город,Задержка
+5.75.245.85,443,true,FRA,Europe,Frankfurt,167 мс
+37.27.46.234,443,true,HEL,Europe,Helsinki,140 мс
+37.27.206.50,443,true,HEL,Europe,Helsinki,139 мс
+65.108.61.166,443,true,AMS,Europe,Amsterdam,141 мс
+65.109.7.14,443,true,HEL,Europe,Helsinki,152 мс
+65.109.171.242,443,true,HEL,Europe,Helsinki,142 мс
+65.109.171.240,443,true,HEL,Europe,Helsinki,143 мс
+65.109.210.250,443,true,HEL,Europe,Helsinki,142 мс
+95.217.187.142,443,true,AMS,Europe,Amsterdam,137 мс
+116.203.58.165,443,true,FRA,Europe,Frankfurt,176 мс
+128.140.50.32,443,true,FRA,Europe,Frankfurt,171 мс
+135.181.46.229,443,true,HEL,Europe,Helsinki,144 мс
+157.90.164.22,443,true,FRA,Europe,Frankfurt,159 мс
+168.119.136.199,443,true,FRA,Europe,Frankfurt,162 мс
+188.245.85.245,443,true,FRA,Europe,Frankfurt,166 мс
+188.245.105.125,443,true,FRA,Europe,Frankfurt,162 мс
+195.201.42.39,443,true,FRA,Europe,Frankfurt,175 мс
+195.201.148.147,443,true,FRA,Europe,Frankfurt,171 мс
