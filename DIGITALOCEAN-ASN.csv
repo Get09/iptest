@@ -1,0 +1,4 @@
+IP-адрес,Порт,TLS,Дата-центр,Регион,Город,Задержка
+146.190.111.165,443,true,SIN,Asia Pacific,Singapore,338 мс
+159.89.48.29,443,true,EWR,North America,Newark,242 мс
+188.166.139.238,443,true,LHR,Europe,London,176 мс
