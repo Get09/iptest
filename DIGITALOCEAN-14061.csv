@@ -1,0 +1,17 @@
+IP-адрес,Порт,TLS,Дата-центр,Регион,Город,Задержка
+46.101.189.202,443,true,FRA,Europe,Frankfurt,270 мс
+64.226.127.171,443,true,FRA,Europe,Frankfurt,187 мс
+104.248.36.29,443,true,FRA,Europe,Frankfurt,191 мс
+104.248.192.81,443,true,AMS,Europe,Amsterdam,220 мс
+142.93.0.47,443,true,EWR,North America,Newark,263 мс
+146.190.111.165,443,true,SIN,Asia Pacific,Singapore,384 мс
+161.35.75.204,443,true,FRA,Europe,Frankfurt,177 мс
+165.227.140.178,443,true,FRA,Europe,Frankfurt,211 мс
+165.227.143.226,443,true,FRA,Europe,Frankfurt,218 мс
+165.232.79.190,443,true,FRA,Europe,Frankfurt,500 мс
+165.232.88.33,443,true,AMS,Europe,Amsterdam,211 мс
+167.172.144.112,443,true,EWR,North America,Newark,363 мс
+188.166.255.195,443,true,SIN,Asia Pacific,Singapore,413 мс
+206.81.28.31,443,true,FRA,Europe,Frankfurt,199 мс
+206.189.103.250,443,true,AMS,Europe,Amsterdam,199 мс
+207.154.254.200,443,true,FRA,Europe,Frankfurt,193 мс
